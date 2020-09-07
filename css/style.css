@@ -1,0 +1,17 @@
+.brand .n-logo {
+    opacity: 0.5;
+}
+
+.navbar-translate {
+    background-image: url("../img/JF.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    border-radius: 50%;
+    backgrou
+}
+
+.navbar-brand {
+    height: 31px;
+    width: 15px;
+}
